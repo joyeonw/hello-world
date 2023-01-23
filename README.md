@@ -1,2 +1,2 @@
-# hello-world
-My first repository on Github
+# bookclub-nomad  
+IT dictionary
